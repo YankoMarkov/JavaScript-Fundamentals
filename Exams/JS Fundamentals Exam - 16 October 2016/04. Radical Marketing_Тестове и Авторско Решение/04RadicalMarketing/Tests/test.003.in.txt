@@ -1,0 +1,8 @@
+F
+E
+F-E
+E-F
+V
+V-F
+H
+H-F
